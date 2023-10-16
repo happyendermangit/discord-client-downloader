@@ -28,6 +28,9 @@ $ python main.py
 ```
 5. Enjoy!
 
+
+> WARNING: THIS IS NOT affiliated WITH DISCORD
+
 ### Having issues/bugs with the program? 
 - join our [Discord Server](https://discord.gg/2FFHHqJXvm) and tell us more in #bugs!
 
