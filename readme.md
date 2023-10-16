@@ -12,6 +12,8 @@
 - [ ] Ability to change global env 
 - [ ] Strings changer on main js file
 
+## Star the repo if u like the project!
+
 ### How to use?
 
 1. Clone the repo:
@@ -31,6 +33,7 @@ $ python main.py
 
 
 > WARNING: THIS IS NOT affiliated WITH DISCORD
+
 
 ### Having issues/bugs with the program? 
 - join our [Discord Server](https://discord.gg/2FFHHqJXvm) and tell us more in #bugs!
