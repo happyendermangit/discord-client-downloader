@@ -132,7 +132,7 @@ def save():
     options = FirefoxOptions()
     options.add_argument("-headless")
     driver = webdriver.Firefox(options=options)
-    driver.get(getURL("register"))
+    driver.get(getURL("/register"))
     
     while True:
         if driver.execute_script('return document.readyState') == "complete" and 'Already have an account?' in driver.execute_script('return document.querySelector("html").innerHTML'):
