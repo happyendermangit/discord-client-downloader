@@ -18,7 +18,7 @@
 
 1. Clone the repo:
 ```sh 
-$ git clone ...
+$ git clone https://github.com/happyendermangit/discord-client-downloader.git
 ```
 2. Install the required modules:
 ```sh 
