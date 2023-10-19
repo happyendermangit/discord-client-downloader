@@ -1,6 +1,6 @@
 # Discord client downloader: 
 
-[![Discord](https://img.shields.io/discord/1163446455005102181?style=for-the-badge&color=%235562EA)](https://discord.gg/uduJP4BvKZ)
+[![Discord](https://img.shields.io/discord/1103066670576193627?style=for-the-badge&color=%235562EA)](https://discord.gg/Q6UYNawvaF)
  ![GitHub contributors](https://img.shields.io/github/contributors/happyendermangit/discord-client-downloader?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/happyendermangit/discord-client-downloader?style=for-the-badge)
 
 ### 🚀 The best discord client exporter, with a lot of features: 
